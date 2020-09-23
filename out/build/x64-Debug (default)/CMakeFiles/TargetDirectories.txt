@@ -1,0 +1,3 @@
+C:/Users/AyubM/OneDrive - Algonquin College/Computer Engineering/Computer Engineering/Semster 4/C++/Lab 2/out/build/x64-Debug (default)/CMakeFiles/hello.dir
+C:/Users/AyubM/OneDrive - Algonquin College/Computer Engineering/Computer Engineering/Semster 4/C++/Lab 2/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/AyubM/OneDrive - Algonquin College/Computer Engineering/Computer Engineering/Semster 4/C++/Lab 2/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
