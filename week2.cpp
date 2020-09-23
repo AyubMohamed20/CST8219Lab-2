@@ -27,7 +27,7 @@ public:
 
 int main(int argc, char** argv)
 {
-	Vehicle  myVehicle;
+	Vehicle  myVehicle(4);
 	cout << "I made a Vehicle!" << endl;
 	return 0;
 }
