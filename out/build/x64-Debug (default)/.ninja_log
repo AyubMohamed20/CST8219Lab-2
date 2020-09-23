@@ -1,3 +1,17 @@
 # ninja log v5
 0	524	622595267	CMakeFiles/hello.dir/week2.cpp.obj	ae8eff7a22ee587e
 525	1095	622595268	hello.exe	102bcce69815f55c
+0	522	622598442	CMakeFiles/hello.dir/week2.cpp.obj	ae8eff7a22ee587e
+523	784	622598442	hello.exe	102bcce69815f55c
+1	404	622598612	CMakeFiles/hello.dir/week2.cpp.obj	ae8eff7a22ee587e
+404	624	622598613	hello.exe	102bcce69815f55c
+0	566	622598664	CMakeFiles/hello.dir/week2.cpp.obj	ae8eff7a22ee587e
+566	767	622598665	hello.exe	102bcce69815f55c
+0	522	622598783	CMakeFiles/hello.dir/week2.cpp.obj	ae8eff7a22ee587e
+523	739	622598784	hello.exe	102bcce69815f55c
+1	511	622598839	CMakeFiles/hello.dir/week2.cpp.obj	ae8eff7a22ee587e
+511	713	622598839	hello.exe	102bcce69815f55c
+1	387	622598853	CMakeFiles/hello.dir/week2.cpp.obj	ae8eff7a22ee587e
+388	550	622598853	hello.exe	102bcce69815f55c
+0	550	622598906	CMakeFiles/hello.dir/week2.cpp.obj	ae8eff7a22ee587e
+550	780	622598907	hello.exe	102bcce69815f55c
